@@ -1,4 +1,4 @@
-# 14-re2
+# Blog Vue Frontend
 
 ## Project setup
 ```
